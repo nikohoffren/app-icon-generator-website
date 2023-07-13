@@ -9,8 +9,8 @@ function Home() {
       <div className="relative py-3 sm:max-w-xl sm:mx-auto">
         <div className="relative px-4 py-10 bg-gray-800 mx-8 md:mx-0 shadow rounded-3xl sm:p-10">
           <div className="max-w-md mx-auto">
-            <div className="flex text-center font-semibold text-3xl text-gray-100">
-              <h1>App Icon Generator</h1>
+            <div className="flex flex-col items-center text-center font-semibold text-4xl text-gray-100">
+              <h1 className="mb-4">App Icon Generator</h1>
               <img
                 src="icon_512x512.png"
                 alt="App Icon Generator logo"
