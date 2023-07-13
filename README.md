@@ -19,15 +19,16 @@ Contributions are what make the open-source community such an amazing place to l
 
 1. Fork the repository
 2. Clone the repository to your local machine `git clone https://github.com/nikohoffren/app-icon-generator-website.git`
-3. Install necessary dependencies `npm install`
-4. Make sure you have Vite installed globally `npm install -g create-vite`
-5. To start the development server, run `npm run dev`
-2. Create your Feature Branch `git switch -c feature` (Replace the feature placeholder with your new feature)
-3. Make your changes in code
-4. Add your changes `git add name-of-the-changed-file`
-5. Commit your Changes `git commit -m 'Add new feature'`
-6. Push to the Branch `git push origin feature`
-7. Open a Pull Request
+3. Change directory to the project directory `cd app-icon-generator-website`
+4. Install necessary dependencies `npm install`
+5. Make sure you have Vite installed globally `npm install -g create-vite`
+6. To start the development server, run `npm run dev`
+7. Create your Feature Branch `git switch -c feature` (Replace the feature placeholder with your new feature)
+8. Make your changes in code
+9. Add your changes `git add name-of-the-changed-file`
+10. Commit your Changes `git commit -m 'Add new feature'`
+11. Push to the Branch `git push origin feature`
+12. Open a Pull Request
 
 For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
