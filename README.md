@@ -10,7 +10,6 @@ A modern web application for generating Android app icons of various sizes. Buil
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
