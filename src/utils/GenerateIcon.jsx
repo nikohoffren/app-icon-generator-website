@@ -1,3 +1,4 @@
+/* eslint-disable import/prefer-default-export */
 import { fabric } from 'fabric';
 
 export const generateIcon = (imageFile, size) => {
@@ -5,7 +6,7 @@ export const generateIcon = (imageFile, size) => {
   canvas.setWidth(size);
   canvas.setHeight(size);
 
-  fabric.Image.fromURL(URL.createObjectURL(imageFile), function (img) {
+  fabric.Image.fromURL(URL.createObjectURL(imageFile), (img) => {
     img.scaleToWidth(size);
     img.scaleToHeight(size);
     img.set({ left: 0, top: 0, angle: 0 });
@@ -31,7 +32,7 @@ export const generateIcon = (imageFile, size) => {
     canvas.add(circle);
     canvas.renderAll();
 
-    // Download the icon
+    //* Download the icon
     const a = document.createElement('a');
     a.href = canvas.toDataURL();
     a.download = `icon_${size}x${size}.png`;
