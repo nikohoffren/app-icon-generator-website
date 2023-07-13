@@ -12,7 +12,7 @@ const FileUpload = () => {
         if (!selectedFile) {
             return;
         }
-        //* Generate icons of a few different sizes as an example
+        //* Generate different sizes of icons
         [48, 72, 96, 144, 192, 512].forEach((size) =>
             generateIcon(selectedFile, size)
         );

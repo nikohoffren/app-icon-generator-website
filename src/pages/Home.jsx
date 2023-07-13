@@ -23,19 +23,19 @@ const Home = () => {
                         </div>
                         <div className="text-center mt-5 font-semibold text-gray-100">
                             Are you tired of manually creating and resizing your
-                            app icons? Say hello to our App Icon
-                            Generator, a one-stop solution for generating
-                            perfect icons for your applications. This
-                            tool lets you upload an image, and it will
-                            automatically create a set of circular icons in all
-                            the required sizes for Android. No longer do you
-                            need to worry about the tedious task of resizing and
-                            cropping. Our generator handles all the technical
-                            details, allowing you to focus on the creative
-                            process. With a few clicks, you can generate the
-                            perfect icons to make your app stand out on any
-                            device. Start creating your app icons today
-                            and experience the streamlined convenience!
+                            app icons? Say hello to our App Icon Generator, a
+                            one-stop solution for generating perfect icons for
+                            your applications. This tool lets you upload an
+                            image, and it will automatically create a set of
+                            circular icons in all the required sizes for
+                            Android. No longer do you need to worry about the
+                            tedious task of resizing and cropping. Our generator
+                            handles all the technical details, allowing you to
+                            focus on the creative process. With a few clicks,
+                            you can generate the perfect icons to make your app
+                            stand out on any device. Start creating your app
+                            icons today and experience the streamlined
+                            convenience!
                         </div>
                         <div className="mt-5">
                             <p className="font-semibold text-lg text-gray-100">
