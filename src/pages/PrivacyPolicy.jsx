@@ -2,19 +2,19 @@ import "../index.css";
 
 const PrivacyPolicy = () => {
     return (
-        <div className="min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
+        <div className="min-h-screen bg-gray-900 py-6 flex flex-col justify-center sm:py-12">
             <div className="relative py-3 sm:max-w-xl sm:mx-auto">
-                <div className="relative px-4 py-10 bg-white mx-8 md:mx-0 shadow rounded-3xl sm:p-10">
+                <div className="relative px-4 py-10 bg-gray-800 mx-8 md:mx-0 shadow rounded-3xl sm:p-10">
                     <div className="max-w-md mx-auto">
-                        <div className="font-semibold text-xl text-gray-800 mb-4">
+                        <div className="font-semibold text-xl text-gray-100 mb-4">
                             Privacy Policy for Smart Meeting Scheduler
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 1. Introduction
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 Smart Meeting Scheduler is a Google Chrome
                                 extension designed to streamline and simplify
                                 the process of scheduling meetings using Google
@@ -25,10 +25,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 2. What data is being collected?
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 Smart Meeting Scheduler collects the following
                                 data from its users: Google Calendar event
                                 details. The extension accesses your Google
@@ -37,20 +37,20 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 3. How is the data being collected?
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 Data is collected directly from the user's
                                 Google Calendar when they use the extension.
                             </p>
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 4. Why is the data being collected?
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 The data is collected to facilitate the
                                 scheduling of meetings and to provide the user
                                 with a personalized experience when using the
@@ -59,10 +59,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 5. How is the data used?
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 The collected data is used solely for the
                                 operation of the extension. It is used to
                                 display and schedule events within the user's
@@ -71,10 +71,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 6. Who else has access to the data?
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 The data accessed by Smart Meeting Scheduler is
                                 not shared with any third parties. The
                                 developers of the extension also do not have
@@ -83,10 +83,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 7. How can users control their data?
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 As a user, you have the right to access, modify,
                                 and delete your data. This can be done within
                                 the Google Calendar application itself.
@@ -94,10 +94,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 8. Updates to the policy
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 We reserve the right to make changes to this
                                 Privacy Policy. Any changes will be posted on
                                 this page. We encourage you to review our
@@ -106,10 +106,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 9. Data Security
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 We are committed to protecting the security of
                                 your data. We implement appropriate technical
                                 and organizational measures to safeguard your
@@ -119,10 +119,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 10. Data Retention
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 We retain your calendar data only for as long as
                                 necessary to provide the services outlined in
                                 this Privacy Policy. Once the data is no longer
@@ -131,10 +131,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 11. Third-Party Services
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 Smart Meeting Scheduler may utilize third-party
                                 services or APIs (e.g., Google Calendar API) to
                                 provide its functionalities. Such services may
@@ -147,10 +147,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 12. User Consent
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 By using the Smart Meeting Scheduler extension,
                                 you consent to the collection, use, and
                                 processing of your data as outlined in this
@@ -159,10 +159,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 13. Contact Information
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 If you have any questions or concerns regarding
                                 this Privacy Policy or the handling of your
                                 data, please contact us at niko.hoffren@gmail.com.
@@ -170,10 +170,10 @@ const PrivacyPolicy = () => {
                         </div>
 
                         <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-700">
+                            <div className="font-semibold text-lg text-gray-100">
                                 14. Updates to the Privacy Policy
                             </div>
-                            <p className="text-gray-600">
+                            <p className="text-gray-100">
                                 We reserve the right to update or modify this
                                 Privacy Policy at any time.  Any changes will be
                                 effective immediately upon posting the revised
