@@ -5,7 +5,7 @@
 
 A modern web application for generating app icons of various sizes. Built with React and Vite, and uses the Fabric.js library for image manipulation.
 
-[![App Icon Generator Website](https://app-icon-generator.netlify.app)]
+[App Icon Generator Website](https://app-icon-generator.netlify.app)
 
 ## Table of Contents
 
