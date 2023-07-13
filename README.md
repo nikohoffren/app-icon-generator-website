@@ -51,12 +51,12 @@ Contributions are what make the open-source community such an amazing place to l
 4. Add your changes `git add name-of-the-changed-file`
 5. Commit your Changes `git commit -m 'Add new feature'`
 (Replace the feature placeholder with your new feature)
-6. Push to the Branch `git push origin -u feature`
+6. Push to the Branch `git push origin feature`
 7. Open a Pull Request
 
 For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
-Also, please read our [Contributing Guidelines](CONTRIBUTING_GUIDELINES.md) for more information.
+Also, please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
 ## Questions
 
