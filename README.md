@@ -1,7 +1,7 @@
 # Android App Icon Generator
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-<!-- ![GitHub version](https://badge.fury.io/gh/username%2Frepo.svg) -->
+![GitHub version](https://badge.fury.io/gh/nikohoffren%2app-icon-generator-website.svg)
 
 A modern web application for generating Android app icons of various sizes. Built with React and Vite, and uses the Fabric.js library for image manipulation.
 
