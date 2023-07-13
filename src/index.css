@@ -3,5 +3,5 @@
 @import "tailwindcss/utilities";
 
 .bg-gradient {
-    background: linear-gradient(to right, #ff7f00, #9b2fcb);
+    background: linear-gradient(to right, #f80c0c, #fc6a16, #6616fc, #9b2fcb);
 }
