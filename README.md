@@ -47,8 +47,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 1. Fork the Project
 2. Create your Feature Branch `git switch -c feature`
-3. Commit your Changes (git commit -m 'Add new feature')
-4. Push to the Branch (git push origin -u feature)
+3. Commit your Changes `git commit -m 'Add new feature'`
+(Replace the feature placeholder with your new feature)
+4. Push to the Branch `git push origin -u feature`
 5. Open a Pull Request
 
 For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
