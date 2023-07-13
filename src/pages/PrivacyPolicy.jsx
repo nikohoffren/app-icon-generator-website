@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
                 <div className="relative px-4 py-10 bg-gray-800 mx-8 md:mx-0 shadow rounded-3xl sm:p-10">
                     <div className="max-w-md mx-auto">
                         <div className="font-semibold text-xl text-gray-100 mb-4">
-                            Privacy Policy for Smart Meeting Scheduler
+                            Privacy Policy for Android App Icon Generator
                         </div>
 
                         <div className="mb-4">
@@ -15,12 +15,7 @@ const PrivacyPolicy = () => {
                                 1. Introduction
                             </div>
                             <p className="text-gray-100">
-                                Smart Meeting Scheduler is a Google Chrome
-                                extension designed to streamline and simplify
-                                the process of scheduling meetings using Google
-                                Calendar. This Privacy Policy outlines our
-                                commitment to protecting the privacy of
-                                individuals who use our extension.
+                                Android App Icon Generator is a tool that helps users generate circular app icons. This Privacy Policy outlines our commitment to protecting the privacy of individuals who use our service.
                             </p>
                         </div>
 
@@ -29,157 +24,61 @@ const PrivacyPolicy = () => {
                                 2. What data is being collected?
                             </div>
                             <p className="text-gray-100">
-                                Smart Meeting Scheduler collects the following
-                                data from its users: Google Calendar event
-                                details. The extension accesses your Google
-                                Calendar events to provide its services.
+                                Android App Icon Generator does not collect any personal data. The service processes images uploaded by users to generate icons, but these images are not stored or shared.
                             </p>
                         </div>
 
                         <div className="mb-4">
                             <div className="font-semibold text-lg text-gray-100">
-                                3. How is the data being collected?
+                                3. How is the data being processed?
                             </div>
                             <p className="text-gray-100">
-                                Data is collected directly from the user's
-                                Google Calendar when they use the extension.
+                                Images are processed directly in the user's browser. No data is sent to or stored on our servers.
                             </p>
                         </div>
 
                         <div className="mb-4">
                             <div className="font-semibold text-lg text-gray-100">
-                                4. Why is the data being collected?
+                                4. Why is the data being processed?
                             </div>
                             <p className="text-gray-100">
-                                The data is collected to facilitate the
-                                scheduling of meetings and to provide the user
-                                with a personalized experience when using the
-                                extension.
+                                The image data is processed solely to provide the icon generation service and is not used for any other purposes.
                             </p>
                         </div>
 
                         <div className="mb-4">
                             <div className="font-semibold text-lg text-gray-100">
-                                5. How is the data used?
+                                5. Who else has access to the data?
                             </div>
                             <p className="text-gray-100">
-                                The collected data is used solely for the
-                                operation of the extension. It is used to
-                                display and schedule events within the user's
-                                Google Calendar.
+                                As no data is stored or sent to our servers, only the user has access to the data processed by the Android App Icon Generator.
                             </p>
                         </div>
 
                         <div className="mb-4">
                             <div className="font-semibold text-lg text-gray-100">
-                                6. Who else has access to the data?
+                                6. User Consent
                             </div>
                             <p className="text-gray-100">
-                                The data accessed by Smart Meeting Scheduler is
-                                not shared with any third parties. The
-                                developers of the extension also do not have
-                                access to this data.
+                                By using the Android App Icon Generator, you consent to the processing of your image data as outlined in this Privacy Policy.
                             </p>
                         </div>
 
                         <div className="mb-4">
                             <div className="font-semibold text-lg text-gray-100">
-                                7. How can users control their data?
+                                7. Updates to the Privacy Policy
                             </div>
                             <p className="text-gray-100">
-                                As a user, you have the right to access, modify,
-                                and delete your data. This can be done within
-                                the Google Calendar application itself.
+                                We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised policy on our website. We encourage you to review this Privacy Policy periodically for any updates.
                             </p>
                         </div>
 
                         <div className="mb-4">
                             <div className="font-semibold text-lg text-gray-100">
-                                8. Updates to the policy
+                                8. Contact Information
                             </div>
                             <p className="text-gray-100">
-                                We reserve the right to make changes to this
-                                Privacy Policy. Any changes will be posted on
-                                this page. We encourage you to review our
-                                Privacy Policy to stay informed.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-100">
-                                9. Data Security
-                            </div>
-                            <p className="text-gray-100">
-                                We are committed to protecting the security of
-                                your data. We implement appropriate technical
-                                and organizational measures to safeguard your
-                                data and prevent unauthorized access or
-                                disclosure.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-100">
-                                10. Data Retention
-                            </div>
-                            <p className="text-gray-100">
-                                We retain your calendar data only for as long as
-                                necessary to provide the services outlined in
-                                this Privacy Policy. Once the data is no longer
-                                required, we securely delete or anonymize it.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-100">
-                                11. Third-Party Services
-                            </div>
-                            <p className="text-gray-100">
-                                Smart Meeting Scheduler may utilize third-party
-                                services or APIs (e.g., Google Calendar API) to
-                                provide its functionalities. Such services may
-                                have theirown privacy policies and terms of
-                                service, and we encourage you to review them. We
-                                do not share your data with any third parties
-                                other than those necessary to provide the
-                                services of Smart Meeting Scheduler.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-100">
-                                12. User Consent
-                            </div>
-                            <p className="text-gray-100">
-                                By using the Smart Meeting Scheduler extension,
-                                you consent to the collection, use, and
-                                processing of your data as outlined in this
-                                Privacy Policy.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-100">
-                                13. Contact Information
-                            </div>
-                            <p className="text-gray-100">
-                                If you have any questions or concerns regarding
-                                this Privacy Policy or the handling of your
-                                data, please contact us at niko.hoffren@gmail.com.
-                            </p>
-                        </div>
-
-                        <div className="mb-4">
-                            <div className="font-semibold text-lg text-gray-100">
-                                14. Updates to the Privacy Policy
-                            </div>
-                            <p className="text-gray-100">
-                                We reserve the right to update or modify this
-                                Privacy Policy at any time.  Any changes will be
-                                effective immediately upon posting the revised
-                                policy on our website. We encourage you to
-                                review this Privacy Policy periodically for any
-                                updates.
+                                If you have any questions or concerns regarding this Privacy Policy, please contact us at niko.hoffren@gmail.com.
                             </p>
                         </div>
                     </div>
