@@ -1,17 +1,17 @@
-# Android App Icon Generator
+# App Icon Generator
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![GitHub version](https://badge.fury.io/gh/nikohoffren%2app-icon-generator-website.svg)
 
-A modern web application for generating Android app icons of various sizes. Built with React and Vite, and uses the Fabric.js library for image manipulation.
+A modern web application for generating app icons of various sizes. Built with React and Vite, and uses the Fabric.js library for image manipulation.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Questions](#questions)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [License](#license)
+-   [Contributing](#contributing)
+-   [Questions](#questions)
 
 ## Installation
 
@@ -19,6 +19,12 @@ To install necessary dependencies, run the following command:
 
 ```bash
 npm install
+```
+
+This project was bootstrapped with Vite.js. Make sure you have it installed globally. If not, you can install it using the following command:
+
+```bash
+npm install -g create-vite
 ```
 
 ## Usage
@@ -35,7 +41,19 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+    Fork the Project
+    Create your Feature Branch (git switch -c feature/AmazingFeature)
+    Commit your Changes (git commit -m 'Add some AmazingFeature')
+    Push to the Branch (git push origin feature/AmazingFeature)
+    Open a Pull Request
+
+For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+
+Also, please read our [Contributing Guidelines](CONTRIBUTING_GUIDELINES.md) for more information.
 
 ## Questions
 
