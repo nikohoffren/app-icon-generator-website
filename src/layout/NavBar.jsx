@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 const NavBar = () => (
     <nav className="bg-gradient py-4">
         <ul className="flex justify-center text-lg">
-            <li className="mr-6">
+            <li className="mx-6">
                 <img
                     src="icon_512x512.png"
                     alt="App Icon Generator logo"
