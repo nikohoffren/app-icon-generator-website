@@ -1,18 +1,46 @@
-/* eslint-disable no-unused-vars */
-import React from 'react';
-import FileUpload from './components/FileUpload';
+import React from "react";
+import {
+    BrowserRouter as Router,
+    Routes,
+    Route,
+    NavLink,
+} from "react-router-dom";
+import Home from "./pages/Home";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
 
-function App() {
-  return (
-    <div className="bg-gray-100 min-h-screen">
-      <header className="text-center py-4 bg-blue-500 text-white">
-        <h1 className="text-4xl">Android App Icon Generator</h1>
-      </header>
-      <main className="p-4">
-        <FileUpload />
-      </main>
-    </div>
-  );
-}
+const App = () => {
+    return (
+        <Router>
+            <div>
+                <nav className="bg-gradient py-4">
+                    <ul className="flex justify-center text-lg">
+                        <li className="mr-6">
+                            <NavLink
+                                end
+                                to="/"
+                                className="text-white hover:text-gray-300 btn-bg-gradient py-2 px-4 transition duration-300"
+                            >
+                                Home
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink
+                                to="/about"
+                                className="text-white hover:text-gray-300 btn-bg-gradient py-2 px-4 transition duration-300"
+                            >
+                                About
+                            </NavLink>
+                        </li>
+                    </ul>
+                </nav>
+
+                <Routes>
+                    <Route path="/about" element={<PrivacyPolicy />} />
+                    <Route path="/" element={<Home />} />
+                </Routes>
+            </div>
+        </Router>
+    );
+};
 
 export default App;
