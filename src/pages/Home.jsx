@@ -8,10 +8,10 @@ const Home = () => {
                 <div className="relative px-4 py-10 bg-gray-800 mx-8 md:mx-0 shadow rounded-3xl sm:p-10">
                     <div className="max-w-md mx-auto">
                         <div className="flex text-center font-semibold text-3xl text-gray-100">
-                            Android App Icon Generator
+                            App Icon Generator
                             <img
                                 src="icon_512x512.png"
-                                alt="Android App Icon Generator logo"
+                                alt="App Icon Generator logo"
                                 className="mx-auto h-24 w-24 rounded-full"
                             />
                         </div>
@@ -19,13 +19,13 @@ const Home = () => {
                             <FileUpload />
                         </div>
                         <div className="text-center mt-10 text-lg font-bold text-gray-100">
-                            Welcome to the Android App Icon Generator!
+                            Welcome to the App Icon Generator!
                         </div>
                         <div className="text-center mt-5 font-semibold text-gray-100">
                             Are you tired of manually creating and resizing your
-                            Android app icons? Say hello to our Android App Icon
+                            app icons? Say hello to our App Icon
                             Generator, a one-stop solution for generating
-                            perfect icons for your Android applications. This
+                            perfect icons for your applications. This
                             tool lets you upload an image, and it will
                             automatically create a set of circular icons in all
                             the required sizes for Android. No longer do you
@@ -34,7 +34,7 @@ const Home = () => {
                             details, allowing you to focus on the creative
                             process. With a few clicks, you can generate the
                             perfect icons to make your app stand out on any
-                            Android device. Start creating your app icons today
+                            device. Start creating your app icons today
                             and experience the streamlined convenience!
                         </div>
                         <div className="mt-5">

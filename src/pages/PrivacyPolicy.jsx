@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
                 <div className="relative px-4 py-10 bg-gray-800 mx-8 md:mx-0 shadow rounded-3xl sm:p-10">
                     <div className="max-w-md mx-auto">
                         <div className="font-semibold text-xl text-gray-100 mb-4">
-                            Privacy Policy for Android App Icon Generator
+                            Privacy Policy for App Icon Generator
                         </div>
 
                         <div className="mb-4">
@@ -15,7 +15,7 @@ const PrivacyPolicy = () => {
                                 1. Introduction
                             </div>
                             <p className="text-gray-100">
-                                Android App Icon Generator is a tool that helps users generate circular app icons. This Privacy Policy outlines our commitment to protecting the privacy of individuals who use our service.
+                                App Icon Generator is a tool that helps users generate circular app icons. This Privacy Policy outlines our commitment to protecting the privacy of individuals who use our service.
                             </p>
                         </div>
 
@@ -24,7 +24,7 @@ const PrivacyPolicy = () => {
                                 2. What data is being collected?
                             </div>
                             <p className="text-gray-100">
-                                Android App Icon Generator does not collect any personal data. The service processes images uploaded by users to generate icons, but these images are not stored or shared.
+                                App Icon Generator does not collect any personal data. The service processes images uploaded by users to generate icons, but these images are not stored or shared.
                             </p>
                         </div>
 
@@ -60,7 +60,7 @@ const PrivacyPolicy = () => {
                                 6. User Consent
                             </div>
                             <p className="text-gray-100">
-                                By using the Android App Icon Generator, you consent to the processing of your image data as outlined in this Privacy Policy.
+                                By using the App Icon Generator, you consent to the processing of your image data as outlined in this Privacy Policy.
                             </p>
                         </div>
 
