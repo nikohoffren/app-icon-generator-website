@@ -2,6 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![GitHub version](https://badge.fury.io/gh/nikohoffren%2app-icon-generator-website.svg)
+[![PR:s Welcome](https://img.shields.io/badge/PR:s-Welcome-brightgreen.svg)](https://github.com/nikohoffren/puck-hub/pulls)
 
 A modern web application for generating app icons of various sizes. Built with React and Vite, and uses the Fabric.js library for image manipulation.
 
