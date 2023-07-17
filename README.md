@@ -19,7 +19,10 @@ A modern web application for generating app icons of various sizes. Built with R
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the repository
-2. Clone the repository to your local machine `git clone https://github.com/nikohoffren/app-icon-generator-website.git`
+2. Clone the repository to your local machine `git clone https://github.com/<your-username>/app-icon-generator-website.git`
+
+Replace <your-username> with your GitHub username.
+
 3. Change directory to the project directory `cd app-icon-generator-website`
 4. Install necessary dependencies `npm install`
 5. Make sure you have Vite installed globally `npm install -g create-vite`
