@@ -5,3 +5,8 @@
 .bg-gradient {
     background: linear-gradient(to right, #f80c0c, #fc6a16, #6616fc, #9b2fcb);
 }
+
+h1{
+    font-size: 3rem;
+    width: 100%;
+}
