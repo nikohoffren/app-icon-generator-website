@@ -11,6 +11,8 @@ function Home() {
           <div className="max-w-md mx-auto">
             <div className="flex text-center font-semibold text-3xl text-gray-100">
               <h1>App Icon Generator</h1>
+            </div>
+            <div className="flex mt-4 font-semibold text-3xl text-gray-100">
               <img
                 src="icon_512x512.png"
                 alt="App Icon Generator logo"
